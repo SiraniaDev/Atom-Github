@@ -1,6 +1,6 @@
 ### How to connect Github with Atom #
 
-## How to connect Github with Atom:
+
 
 
 * Create new deposit  on Github<br/>
